@@ -1,0 +1,21 @@
+{
+    "activeEnvironment": "QA",
+    "activebrowser": "chrome",
+    "environments": {
+        "QA": {
+            "Portal1": "https://example-portal1-qa.com",
+            "Portal2": "https://example-portal2-qa.com",
+            "Portal3": "https://example-qa.com"
+        },
+        "UAT": {
+            "Portal1": "https://example-portal1-uat.com",
+            "Portal2": "https://example-portal2-uat.com",
+            "Portal3": "https://example-uat.com"
+        },
+        "Smoke": {
+            "Portal1": "https://example-portal1-smoke.com",
+            "Portal2": "https://example-portal2-smoke.com",
+            "Portal3": "https://example-smoke.com"
+        }
+    }
+}
